@@ -8,9 +8,17 @@ Interação com usuario permitindo fazer a escolha de conversão.
 
 
 * IDE Eclipse
+
 *JOptionPane
+
 *jFrame
+
 *Swing
+
+*awt
+
+*TextDecimal
+
 *JCombobox
 
 Cambio usado como refêrencia do dia 30/03/23.
